@@ -1427,6 +1427,7 @@ ul.pagination {
       padding: 0 0.5em;
       text-align: center; }
       ul.pagination li > .page.active {
+        /* background-color: #f56a6a; */
         background-color: #0055cc;
         color: #ffffff !important; }
         ul.pagination li > .page.active:hover {
